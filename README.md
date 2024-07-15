@@ -36,13 +36,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://dev.to/sohanyadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sohanyadav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prakash-yadav-5b0244198" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prakash-yadav-5b0244198" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10742888" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10742888" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sohanyadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sohanyadav" height="30" width="40" /></a>
 <a href="https://fb.com/sohan2100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sohan2100" height="30" width="40" /></a>
 <a href="https://medium.com/@yadavprakash.it" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@yadavprakash.it" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sohanyadav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sohanyadav" height="30" width="40" /></a>
   <a href="mailto:yadavprakash.it@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
 </p>
 
